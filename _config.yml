@@ -1,0 +1,32 @@
+
+name: Ben Eustace
+
+description: SRE and DevOps engineer
+
+avatar: https://raw.githubusercontent.com/krubot/krubot.github.io/master/images/computer.gif
+
+footer-links:
+  email: krubot.ops@gmail.com
+  github: krubot
+  linkedin: ben-eustace-35a062101
+  twitter: notaiben
+  stackoverflow: users/11410041/ben-eustace
+
+disqus: "krubot"
+
+url: http://krubot.github.io
+
+baseurl: ""
+
+permalink: /:title/
+
+version: v4.0.0
+
+sass:
+  style: :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

@@ -1,6 +1,6 @@
 # Ben Eustace GitHub Blog - run with jekyll
 
-This is
+This is my GitHub blog run using the jekyll framework. Please feel free to add issues and pull requests. 
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 

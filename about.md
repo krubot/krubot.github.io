@@ -1,17 +1,30 @@
 ---
+title: Who am I?
 layout: page
-title: Ben Eustace
 permalink: /about/
 ---
 
-I've been worked as a developer, tester and operations engineer for the last 4 years. My experience includes the use and implementation of many open sources tools, including but not limited too:
+I am a Senior Site Reliability Engineer (SRE) based in London. Since graduating from Warwick University in 2015, I have built extensive experience in programming, operations, and management, working with a diverse range of organizations—from major corporations to smaller startups.
 
- - [Kubernetes](https://github.com/kubernetes/kubernetes)
- - [Docker](https://www.docker.com/)
- - [CoreOS](https://coreos.com/os/docs/latest/)
+If you’d like to get in touch, feel free to email me at:
+
+[benpeustace@gmail.com](mailto:benpeustace@gmail.com)
+
+Below is a list of my skills and expertise across various aspects of software development and engineering:
+
+# Programming Languages
+
+ - [C](https://en.wikipedia.org/wiki/C_(programming_language))
+ - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
  - [Rust](https://github.com/rust-lang/rust)
  - [Go](https://github.com/golang/go)
  - [LLVM](https://github.com/llvm/llvm-project)
+ - [bash](https://www.gnu.org/software/bash)
+
+# Developer Tools
+
+ - [Kubernetes](https://github.com/kubernetes/kubernetes)
+ - [Docker](https://www.docker.com/)
  - [RunC](https://github.com/opencontainers/runc)
  - [ContainerD](https://github.com/containerd/containerd)
  - [Prometheus](https://github.com/prometheus/prometheus)
@@ -19,10 +32,9 @@ I've been worked as a developer, tester and operations engineer for the last 4 y
  - [Elasticsearch](https://github.com/elastic/elasticsearch)
  - [Kibana](https://github.com/elastic/kibana)
  - [Kafka](https://github.com/apache/kafka)
- - ...
 
-And many more team and organisational skills.
+# Engineering methodologies
 
-### Reach out to me
-
-If your looking to get in contact with me involving business or commercial opportunities please use the email [benpeustace@gmail.com](mailto:email@domain.com).
+ - [DevOPs/SRE](https://en.wikipedia.org/wiki/DevOps)
+ - [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+ - [CI/CD](https://en.wikipedia.org/wiki/CI/CD)

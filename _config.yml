@@ -1,26 +1,20 @@
 
 name: Ben Eustace
 
-description: SRE and DevOps engineer
+description: Seniour SRE
 
 avatar: https://raw.githubusercontent.com/krubot/krubot.github.io/master/images/computer.gif
 
 footer-links:
-  email: krubot.ops@gmail.com
+  email: benpeustace@gmail.com
   github: krubot
   linkedin: ben-eustace-35a062101
-  twitter: notaiben
-  stackoverflow: users/11410041/ben-eustace
-
-disqus: "krubot"
 
 url: http://krubot.github.io
 
-baseurl: ""
-
 permalink: /:title/
 
-version: v4.0.0
+version: v4.3.4
 
 sass:
   style: :expanded
